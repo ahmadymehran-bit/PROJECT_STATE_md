@@ -15,7 +15,7 @@
     * جدول‌های اصلی: `users`, `listings`, `bookings`, `conversations`, `messages`, `missions`, `favorites`.
     * جدول‌های جدید: `ready_profiles`, `user_watches`, `escrows`.
 * **آپلود عکس:** Supabase Storage (باکت `listings` - Public).
-* **هوش مصنوعی:** LLM7.io (رایگان) در داشبورد ادمین.
+* **هوش مصنوعی:** LLM7.io (رایگان) در داشبورد ادمین.....
 
 ## ۳. کارهای انجام‌شده (تا این لحظه):
 * رفع کامل خطاهای CORS، 404 و Cache.
